@@ -1,0 +1,62 @@
+body {
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+}
+
+#left {
+    float: left;
+    width: 33%;
+    height: 500px;
+}
+
+#right {
+    float: right;
+    width: 33.7%;
+    height: 500px;
+}
+
+#center {
+    height: 500px;
+    margin-left: 33%;
+    margin-right: 33.7%;
+    margin-top: ;
+}
+
+#first {
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    height: 470px;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#second {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    height: 470px;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#third {
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 470px;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#text-b {
+    text-align: center;
+    font-weight: 600;
+    font-family: Microsoft JhengHei;
+    font-size: 26px;
+}
+
+#text-s {
+    margin: 8%;
+    text-align: center;
+    font-weight: 600;
+    font-family: Microsoft JhengHei;
+    font-size: 16px;
+}
