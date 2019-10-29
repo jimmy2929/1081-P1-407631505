@@ -17,7 +17,7 @@ body {
 }
 
 #center {
-    height: 500px;
+    height: 100%;
     margin-left: 33%;
     margin-right: 33.7%;
     margin-top: ;
@@ -27,7 +27,7 @@ body {
     margin-left: 25%;
     margin-right: 25%;
     width: 50%;
-    height: 470px;
+    height: 95%;
     background: rgba(0, 0, 0, 0.2);
 }
 
@@ -35,14 +35,14 @@ body {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 10%;
-    height: 470px;
+    height: 95%;
     background: rgba(0, 0, 0, 0.2);
 }
 
 #third {
     margin-left: 25%;
     margin-right: 25%;
-    height: 470px;
+    height: 95%;
     background: rgba(0, 0, 0, 0.2);
 }
 
