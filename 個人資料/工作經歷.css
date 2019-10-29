@@ -50,7 +50,7 @@ body {
     text-align: center;
     font-weight: 600;
     font-family: Microsoft JhengHei;
-    font-size: 26px;
+    font-size: 1.7vw;
 }
 
 #text-s {
@@ -58,5 +58,5 @@ body {
     text-align: center;
     font-weight: 600;
     font-family: Microsoft JhengHei;
-    font-size: 16px;
+    font-size: 1.2vw;
 }
