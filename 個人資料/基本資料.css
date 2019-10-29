@@ -32,7 +32,7 @@ body {
     text-align: left;
     font-weight: 600;
     font-family: Microsoft JhengHei;
-    font-size: 26px;
+    font-size: 1.7vw;
 }
 
 #answer {
@@ -41,9 +41,9 @@ body {
     text-align: center;
     font-weight: 600;
     font-family: Microsoft JhengHei;
-    font-size: 20px;
+    font-size: 1.3vw;
 }
 
 #jimmy1 {
-    padding: 4px;
+    padding: 0.7%;
 }
